@@ -1,0 +1,11 @@
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\bin\Debug\net8.0\Extentions.deps.json
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\bin\Debug\net8.0\Extentions.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\bin\Debug\net8.0\Extentions.pdb
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\Extentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\Extentions.AssemblyInfoInputs.cache
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\Extentions.AssemblyInfo.cs
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\Extentions.csproj.CoreCompileInputs.cache
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\Extentions.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\refint\Extentions.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\Extentions.pdb
+C:\Users\ei.zuev\source\repos\ExampleApp\Extentions\obj\Debug\net8.0\ref\Extentions.dll

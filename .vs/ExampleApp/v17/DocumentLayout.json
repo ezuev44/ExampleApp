@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\controllers\\exampleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\controllers\\exampleapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\controllers\\providertwosearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\controllers\\providertwosearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providertwo\\providertworoute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providertwo\\providertworoute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providertwo\\providertwosearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providertwo\\providertwosearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providertwo\\providertwopoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providertwo\\providertwopoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\providertwo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\providertwo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\services\\mappers\\searchresponsemapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\services\\mappers\\searchresponsemapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\services\\callapiprovideroneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\services\\callapiprovideroneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\services\\callapiprovidertwoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\services\\callapiprovidertwoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\interfaces\\isearchresponsemapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\isearchresponsemapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\services\\mappers\\searchresponseprovideronemapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\services\\mappers\\searchresponseprovideronemapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\services\\mappers\\searchresponseprovidertwomapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\services\\mappers\\searchresponseprovidertwomapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providerone\\provideroneroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providerone\\provideroneroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\exampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\exampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\services\\providertwodataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\services\\providertwodataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\searchfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\searchfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providerone\\provideronesearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providerone\\provideronesearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\controllers\\provideronesearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\controllers\\provideronesearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\services\\base\\callapiproviderservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\services\\base\\callapiproviderservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\interfaces\\iproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\iproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providertwo\\providertwosearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providertwo\\providertwosearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\services\\provideronedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\services\\provideronedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\context\\entities\\oneroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\context\\entities\\oneroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\context\\entities\\twopont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\context\\entities\\twopont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\context\\entities\\tworoute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\context\\entities\\tworoute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\context\\entities\\twopointtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\context\\entities\\twopointtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\interfaces\\iproviderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\iproviderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\entities\\providerone\\provideronesearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24B67A-2C0C-4B23-91F6-200108479CCF}|Entities\\Entities.csproj|solutionrelative:entities\\providerone\\provideronesearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B7829D-7C23-46DD-A2AE-C8CDA9656CFA}|Extentions\\Extentions.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\extentions\\httpclientextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B7829D-7C23-46DD-A2AE-C8CDA9656CFA}|Extentions\\Extentions.csproj|solutionrelative:extentions\\httpclientextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\providertwosearchresponse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4F969FB-4FA6-4070-A2E3-A777685D4215}|ProviderTwoSearchResponse\\ProviderTwo.csproj|solutionrelative:providertwosearchresponse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\interfaces\\idiagnosticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0647BCE-4753-404E-B992-10334A736F13}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\idiagnosticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\provideronesearchrequest\\providerone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5CE9B54-97C7-4C31-8D11-5719C0DB019B}|ProviderOneSearchRequest\\ProviderOne.csproj|solutionrelative:provideronesearchrequest\\providerone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\exampleapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8011EDE2-96E1-4D61-BA32-CAF11BF2047C}|ExampleApp\\ExampleApp.csproj|solutionrelative:exampleapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B7829D-7C23-46DD-A2AE-C8CDA9656CFA}|Extentions\\Extentions.csproj|c:\\users\\ei.zuev\\source\\repos\\exampleapp\\extentions\\hashextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B7829D-7C23-46DD-A2AE-C8CDA9656CFA}|Extentions\\Extentions.csproj|solutionrelative:extentions\\hashextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Program.cs",
+              "RelativeToolTip": "ExampleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:28:55.873Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Controllers\\ExampleApiController.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Controllers\\ExampleApiController.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Controllers\\ExampleApiController.cs",
+              "RelativeToolTip": "ExampleApp\\Controllers\\ExampleApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:29:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProviderTwoRoute.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoRoute.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderTwo\\ProviderTwoRoute.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoRoute.cs",
+              "RelativeToolTip": "Entities\\ProviderTwo\\ProviderTwoRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:56:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\SearchResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\SearchResponse.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\SearchResponse.cs",
+              "RelativeToolTip": "Entities\\SearchResponse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:37:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProviderTwoSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Controllers\\ProviderTwoSearchController.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Controllers\\ProviderTwoSearchController.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Controllers\\ProviderTwoSearchController.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Controllers\\ProviderTwoSearchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:43:01.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProviderTwoSearchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoSearchResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderTwo\\ProviderTwoSearchResponse.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoSearchResponse.cs",
+              "RelativeToolTip": "Entities\\ProviderTwo\\ProviderTwoSearchResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:56:30.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProviderTwoPoint.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoPoint.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderTwo\\ProviderTwoPoint.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoPoint.cs",
+              "RelativeToolTip": "Entities\\ProviderTwo\\ProviderTwoPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:56:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "Entities\\Route.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\Route.cs",
+              "RelativeToolTip": "Entities\\Route.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:36:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:13:06.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProviderTwo.csproj",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\ProviderTwo.csproj",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\ProviderTwo.csproj",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\ProviderTwo.csproj",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\ProviderTwo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T16:43:57.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchResponseMapperService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Mappers\\SearchResponseMapperService.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Services\\Mappers\\SearchResponseMapperService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Mappers\\SearchResponseMapperService.cs",
+              "RelativeToolTip": "ExampleApp\\Services\\Mappers\\SearchResponseMapperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:13:07.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CallApiProviderOneService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\CallApiProviderOneService.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Services\\CallApiProviderOneService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\CallApiProviderOneService.cs",
+              "RelativeToolTip": "ExampleApp\\Services\\CallApiProviderOneService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:49:15.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CallApiProviderTwoService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\CallApiProviderTwoService.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Services\\CallApiProviderTwoService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\CallApiProviderTwoService.cs",
+              "RelativeToolTip": "ExampleApp\\Services\\CallApiProviderTwoService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:50:27.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISearchResponseMapperService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\ISearchResponseMapperService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISearchResponseMapperService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\ISearchResponseMapperService.cs",
+              "RelativeToolTip": "Interfaces\\ISearchResponseMapperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:41:05.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchResponseProviderOneMapperService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Mappers\\SearchResponseProviderOneMapperService.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Services\\Mappers\\SearchResponseProviderOneMapperService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Mappers\\SearchResponseProviderOneMapperService.cs",
+              "RelativeToolTip": "ExampleApp\\Services\\Mappers\\SearchResponseProviderOneMapperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:42:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchResponseProviderTwoMapperService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Mappers\\SearchResponseProviderTwoMapperService.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Services\\Mappers\\SearchResponseProviderTwoMapperService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Mappers\\SearchResponseProviderTwoMapperService.cs",
+              "RelativeToolTip": "ExampleApp\\Services\\Mappers\\SearchResponseProviderTwoMapperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:45:53.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProviderOneRoute.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderOne\\ProviderOneRoute.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderOne\\ProviderOneRoute.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderOne\\ProviderOneRoute.cs",
+              "RelativeToolTip": "Entities\\ProviderOne\\ProviderOneRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:54:59.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "Entities\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\SearchRequest.cs",
+              "RelativeToolTip": "Entities\\SearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:57:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExampleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\ExampleApp.csproj",
+              "RelativeDocumentMoniker": "ExampleApp\\ExampleApp.csproj",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\ExampleApp.csproj",
+              "RelativeToolTip": "ExampleApp\\ExampleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T17:47:43.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProviderTwoDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Services\\ProviderTwoDataService.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Services\\ProviderTwoDataService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Services\\ProviderTwoDataService.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Services\\ProviderTwoDataService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:26:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SearchFilters.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\SearchFilters.cs",
+              "RelativeDocumentMoniker": "Entities\\SearchFilters.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\SearchFilters.cs",
+              "RelativeToolTip": "Entities\\SearchFilters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:57:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProviderOneSearchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderOne\\ProviderOneSearchResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderOne\\ProviderOneSearchResponse.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderOne\\ProviderOneSearchResponse.cs",
+              "RelativeToolTip": "Entities\\ProviderOne\\ProviderOneSearchResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:55:23.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProviderOneSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Controllers\\ProviderOneSearchController.cs",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\Controllers\\ProviderOneSearchController.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Controllers\\ProviderOneSearchController.cs",
+              "RelativeToolTip": "ProviderOneSearchRequest\\Controllers\\ProviderOneSearchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:39:04.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CallApiProviderServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Base\\CallApiProviderServiceBase.cs",
+              "RelativeDocumentMoniker": "ExampleApp\\Services\\Base\\CallApiProviderServiceBase.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Services\\Base\\CallApiProviderServiceBase.cs",
+              "RelativeToolTip": "ExampleApp\\Services\\Base\\CallApiProviderServiceBase.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:51:41.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\IProviderService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProviderService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\IProviderService.cs",
+              "RelativeToolTip": "Interfaces\\IProviderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:53:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ExampleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\appsettings.json",
+              "RelativeToolTip": "ExampleApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T17:55:47.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProviderTwoSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoSearchRequest.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderTwo\\ProviderTwoSearchRequest.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderTwo\\ProviderTwoSearchRequest.cs",
+              "RelativeToolTip": "Entities\\ProviderTwo\\ProviderTwoSearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:56:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProviderOneDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Services\\ProviderOneDataService.cs",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\Services\\ProviderOneDataService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Services\\ProviderOneDataService.cs",
+              "RelativeToolTip": "ProviderOneSearchRequest\\Services\\ProviderOneDataService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:53:49.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OneRoute.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Context\\Entities\\OneRoute.cs",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\Context\\Entities\\OneRoute.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Context\\Entities\\OneRoute.cs",
+              "RelativeToolTip": "ProviderOneSearchRequest\\Context\\Entities\\OneRoute.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:17:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ProviderOneSearchRequest\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:13:29.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Program.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Program.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Program.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:33:17.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Program.cs",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\Program.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\Program.cs",
+              "RelativeToolTip": "ProviderOneSearchRequest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:41:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TwoPont.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\Entities\\TwoPont.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Context\\Entities\\TwoPont.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\Entities\\TwoPont.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Context\\Entities\\TwoPont.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA6wBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:15:21.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TwoRoute.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\Entities\\TwoRoute.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Context\\Entities\\TwoRoute.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\Entities\\TwoRoute.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Context\\Entities\\TwoRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:13:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TwoPointType.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\Entities\\TwoPointType.cs",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\Context\\Entities\\TwoPointType.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\Context\\Entities\\TwoPointType.cs",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\Context\\Entities\\TwoPointType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:15:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProviderDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\IProviderDataService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProviderDataService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\IProviderDataService.cs",
+              "RelativeToolTip": "Interfaces\\IProviderDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:51:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProviderOneSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderOne\\ProviderOneSearchRequest.cs",
+              "RelativeDocumentMoniker": "Entities\\ProviderOne\\ProviderOneSearchRequest.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Entities\\ProviderOne\\ProviderOneSearchRequest.cs",
+              "RelativeToolTip": "Entities\\ProviderOne\\ProviderOneSearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:55:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\appsettings.json",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\appsettings.json",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\appsettings.json",
+              "RelativeToolTip": "ProviderOneSearchRequest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T16:41:22.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HashExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Extentions\\HashExtentions.cs",
+              "RelativeDocumentMoniker": "Extentions\\HashExtentions.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Extentions\\HashExtentions.cs",
+              "RelativeToolTip": "Extentions\\HashExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:17:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HttpClientExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Extentions\\HttpClientExtentions.cs",
+              "RelativeDocumentMoniker": "Extentions\\HttpClientExtentions.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Extentions\\HttpClientExtentions.cs",
+              "RelativeToolTip": "Extentions\\HttpClientExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:12:53.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\appsettings.json",
+              "RelativeDocumentMoniker": "ProviderTwoSearchResponse\\appsettings.json",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderTwoSearchResponse\\appsettings.json",
+              "RelativeToolTip": "ProviderTwoSearchResponse\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T19:12:04.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDiagnosticService.cs",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\IDiagnosticService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDiagnosticService.cs",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\Interfaces\\IDiagnosticService.cs",
+              "RelativeToolTip": "Interfaces\\IDiagnosticService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:16:19.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExampleApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExampleApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T18:24:22.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProviderOne.csproj",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\ProviderOne.csproj",
+              "RelativeDocumentMoniker": "ProviderOneSearchRequest\\ProviderOne.csproj",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ProviderOneSearchRequest\\ProviderOne.csproj",
+              "RelativeToolTip": "ProviderOneSearchRequest\\ProviderOne.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T17:47:11.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExampleApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ei.zuev\\source\\repos\\ExampleApp\\ExampleApp\\appsettings.Development.json",
+              "RelativeToolTip": "ExampleApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T18:24:18.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

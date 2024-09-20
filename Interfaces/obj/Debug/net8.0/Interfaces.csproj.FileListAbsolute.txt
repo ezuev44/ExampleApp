@@ -1,0 +1,15 @@
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\bin\Debug\net8.0\Entities.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\bin\Debug\net8.0\Entities.pdb
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\ei.zuev\source\repos\ExampleApp\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

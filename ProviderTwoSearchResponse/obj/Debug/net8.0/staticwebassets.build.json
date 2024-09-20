@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6kabvpLMqIfHDG3IeJf9APCg1F+EkAlPsv+lxISZ608=",
+  "Source": "ProviderTwo",
+  "BasePath": "_content/ProviderTwo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
